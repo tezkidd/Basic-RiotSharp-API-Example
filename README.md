@@ -1,4 +1,4 @@
-This was made using [RiotSharp API](https://github.com/BenFradet/RiotSharp)
+This was made using [RiotSharp API](https://github.com/BenFradet/RiotSharp) with the information displayed in the README
 
 
 ![Animation](https://user-images.githubusercontent.com/92890425/167468844-97b635ea-f151-47e0-af2e-f5c1910c8046.gif)
